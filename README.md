@@ -1,3 +1,4 @@
+# 主要是修复reactnative android上编译问题
 # TCP in React Native
 
 node's [net](https://nodejs.org/api/net.html) API in React Native
@@ -9,6 +10,7 @@ This module is used by [Peel](http://www.peel.com/)
 * Create a new react-native project. [Check react-native getting started](http://facebook.github.io/react-native/docs/getting-started.html#content)
 
 * In your project dir:
+
 
 ```
 npm install react-native-tcp --save
